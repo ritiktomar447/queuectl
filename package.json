@@ -1,0 +1,21 @@
+{
+  "name": "queuectl",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A simple CLI for managing job queue",
+  "main": "queuectl.js",
+  "bin": {
+    "queuectl": "./queuectl.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "commander": "^14.0.2",
+    "uuid": "^13.0.0"
+  }
+}

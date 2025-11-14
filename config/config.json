@@ -1,0 +1,5 @@
+{
+  "poll_interval_ms": 2000,
+  "backoff_base": 2,
+  "max_retries": 3
+}

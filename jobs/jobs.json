@@ -1,0 +1,157 @@
+[
+  {
+    "id": "46337f9f-4844-4674-b59e-fcf0bd449acc",
+    "type": "email",
+    "status": "completed",
+    "data": {
+      "createdAt": "2025-11-10T14:08:29.942Z"
+    },
+    "result": "Processed job: email",
+    "startedAt": "2025-11-10T14:17:44.602Z",
+    "completedAt": "2025-11-10T14:17:46.607Z"
+  },
+  {
+    "id": "db7fa579-e237-43f2-8c9c-e137f668e057",
+    "type": "email",
+    "status": "completed",
+    "data": {
+      "createdAt": "2025-11-10T14:17:18.110Z"
+    },
+    "result": "Processed job: email",
+    "createdAt": "2025-11-10T14:17:18.111Z",
+    "startedAt": "2025-11-10T14:17:46.609Z",
+    "completedAt": "2025-11-10T14:17:48.613Z"
+  },
+  {
+    "id": "12122416-cd9a-4aac-a344-cb5397a4ad10",
+    "type": "email",
+    "status": "completed",
+    "data": {
+      "createdAt": "2025-11-10T14:20:31.961Z"
+    },
+    "result": "Processed job: email",
+    "createdAt": "2025-11-10T14:20:31.962Z",
+    "startedAt": "2025-11-10T14:22:23.998Z",
+    "completedAt": "2025-11-10T14:22:26.013Z"
+  },
+  {
+    "id": "c3e5dfbe-3276-4227-980a-de15a4c4b7db",
+    "type": "email",
+    "status": "completed",
+    "data": {
+      "createdAt": "2025-11-10T14:21:44.552Z"
+    },
+    "result": "Processed job: email",
+    "createdAt": "2025-11-10T14:21:44.554Z",
+    "startedAt": "2025-11-10T14:22:26.014Z",
+    "completedAt": "2025-11-10T14:22:28.026Z"
+  },
+  {
+    "id": "8b059c7d-3381-450c-8a6d-81f5daac20ca",
+    "type": "email",
+    "status": "completed",
+    "data": {
+      "createdAt": "2025-11-10T14:21:58.465Z"
+    },
+    "result": "Processed job: email",
+    "createdAt": "2025-11-10T14:21:58.467Z",
+    "startedAt": "2025-11-10T14:22:28.032Z",
+    "completedAt": "2025-11-10T14:22:30.047Z"
+  },
+  {
+    "id": "d598039e-a690-4d55-a7c5-1762707b3017",
+    "type": "email",
+    "status": "completed",
+    "data": {
+      "createdAt": "2025-11-10T14:49:16.261Z"
+    },
+    "result": "Processed job: email",
+    "createdAt": "2025-11-10T14:49:16.263Z",
+    "startedAt": "2025-11-10T14:50:18.011Z",
+    "completedAt": "2025-11-10T14:50:20.029Z"
+  },
+  {
+    "id": "ec01c7ec-a65b-4dd4-90ef-d00fe8445e68",
+    "type": "email",
+    "status": "completed",
+    "data": {
+      "createdAt": "2025-11-10T14:49:52.371Z"
+    },
+    "result": "Processed job: email",
+    "createdAt": "2025-11-10T14:49:52.373Z",
+    "startedAt": "2025-11-10T14:50:20.031Z",
+    "completedAt": "2025-11-10T14:50:22.042Z"
+  },
+  {
+    "id": "000d3f0d-4c81-4529-8739-4fbbc631852c",
+    "type": "report",
+    "status": "completed",
+    "data": {
+      "createdAt": "2025-11-10T14:52:21.381Z"
+    },
+    "result": "Processed job: report",
+    "createdAt": "2025-11-10T14:52:21.382Z",
+    "startedAt": "2025-11-10T14:54:20.465Z",
+    "completedAt": "2025-11-10T14:54:22.476Z"
+  },
+  {
+    "id": "7226f214-baaf-4375-acf2-db9e4847a667",
+    "type": "notification",
+    "status": "completed",
+    "data": {
+      "createdAt": "2025-11-10T14:52:21.511Z"
+    },
+    "result": "Processed job: notification",
+    "createdAt": "2025-11-10T14:52:21.513Z",
+    "startedAt": "2025-11-10T14:54:22.477Z",
+    "completedAt": "2025-11-10T14:54:24.488Z"
+  },
+  {
+    "id": "e01d530b-9be1-4dc6-b09d-0449f17cd137",
+    "type": "backup",
+    "status": "completed",
+    "data": {
+      "createdAt": "2025-11-10T14:52:21.648Z"
+    },
+    "result": "Processed job: backup",
+    "createdAt": "2025-11-10T14:52:21.649Z",
+    "startedAt": "2025-11-10T14:54:24.492Z",
+    "completedAt": "2025-11-10T14:54:26.503Z"
+  },
+  {
+    "id": "f34f8a9c-38af-476a-b6ea-9d5a50fc8eef",
+    "command": "echo hello",
+    "state": "completed",
+    "attempts": 1,
+    "max_retries": 3,
+    "created_at": "2025-11-12T09:09:06.640Z",
+    "updated_at": "2025-11-12T09:10:02.265Z",
+    "available_at": null,
+    "last_error": null,
+    "last_output": "hello\r\n"
+  },
+  {
+    "id": "567f2421-b4da-4f76-bc97-00703760ecdc",
+    "command": "echo hello",
+    "state": "completed",
+    "attempts": 1,
+    "max_retries": 3,
+    "created_at": "2025-11-14T15:49:16.366Z",
+    "updated_at": "2025-11-14T15:51:03.739Z",
+    "available_at": null,
+    "last_error": null,
+    "last_output": "hello\r\n"
+  },
+  {
+    "id": "ca93efee-71cf-4e40-8a29-8bc23bbc6645",
+    "command": "echo hello",
+    "state": "completed",
+    "attempts": 1,
+    "max_retries": 3,
+    "created_at": "2025-11-14T16:33:04.661Z",
+    "updated_at": "2025-11-14T16:35:13.819Z",
+    "available_at": null,
+    "last_error": null,
+    "last_output": "hello\r\n"
+  }
+]

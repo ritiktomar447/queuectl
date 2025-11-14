@@ -1,0 +1,24 @@
+[
+  {
+    "id": "a2955945-485a-49ea-b362-797b0df79c16",
+    "command": "fail",
+    "state": "dead",
+    "attempts": 4,
+    "max_retries": 3,
+    "created_at": "2025-11-12T09:17:04.926Z",
+    "updated_at": "2025-11-14T15:51:19.809Z",
+    "available_at": 1763135479764,
+    "last_error": "exit:1; 'fail' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+  },
+  {
+    "id": "045cfa48-e49f-4550-9edc-5efbc303ac69",
+    "command": "node -e \" process.exit 1 \\",
+    "state": "dead",
+    "attempts": 4,
+    "max_retries": 3,
+    "created_at": "2025-11-14T16:41:08.962Z",
+    "updated_at": "2025-11-14T16:59:48.917Z",
+    "available_at": 1763139586885,
+    "last_error": "exit:1; [eval]:1\r\n process.exit 1 \\\r\n              ^\r\n\r\nSyntaxError: Unexpected number\r\n    at makeContextifyScript (node:internal/vm:185:14)\r\n    at node:internal/process/execution:107:22\r\n    at [eval]-wrapper:6:24\r\n    at runScript (node:internal/process/execution:101:62)\r\n    at evalScript (node:internal/process/execution:133:3)\r\n    at node:internal/main/eval_string:51:3\r\n\r\nNode.js v20.17.0\r\n"
+  }
+]
